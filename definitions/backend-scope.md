@@ -25,7 +25,7 @@ FastAPI has been selected as our backend framework for the following advantages:
 Uvicorn will be used as our ASGI server because:
 
 1. **Performance Benefits**
-   - Lightweight and fast ASGI serverastral.sh
+   - Lightweight and fast ASGI server
    - Built on uvloop and httptools
    - Optimized for async operations
 

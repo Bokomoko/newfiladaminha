@@ -3,6 +3,7 @@
 This document outlines planned features for future implementation.
 
 ## Location Services
+
 1. **Georeferencing**
    - Show queues nearby user's location
    - Filter queues by distance
@@ -10,6 +11,7 @@ This document outlines planned features for future implementation.
    - Navigate to queue location
 
 ## Social Features
+
 1. **Social Media Integration**
    - Login with Google
    - Login with Apple
@@ -18,6 +20,7 @@ This document outlines planned features for future implementation.
    - Invite friends to join queue
 
 ## Tagging System
+
 1. **Queue Tags**
    - Add categories to queues (e.g., restaurant, bank, health)
    - Search queues by tags
@@ -30,6 +33,7 @@ This document outlines planned features for future implementation.
    - Frequently visited places
 
 ## Notifications
+
 1. **Smart Alerts**
    - Push notifications when approaching turn
    - Estimated time notifications
@@ -38,6 +42,7 @@ This document outlines planned features for future implementation.
    - Location-based reminders when near the queue
 
 ## Analytics
+
 1. **Queue Statistics**
    - Average waiting time
    - Peak hours
