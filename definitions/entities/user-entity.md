@@ -4,8 +4,6 @@ This folder contains the entity definitions for the project.
 
 # User Entity
 
-## Overview
-
 The User entity represents registered users in the system. It contains essential information for authentication, authorization, and user management.
 
 ## Attributes
@@ -48,11 +46,13 @@ The User entity represents registered users in the system. It contains essential
 
 ## Default Values
 
-- `is_active`: true
-- `is_admin`: false
-- `email_verified`: false
-- `created_at`: Current timestamp
-- `updated_at`: Current timestamp
+| Attribute          | Default Value |
+|--------------------|---------------|
+| is_active          | true          |
+| is_admin           | false         |
+| email_verified     | false         |
+| created_at         | Current timestamp |
+| updated_at         | Current timestamp |
 
 ## Related Operations
 

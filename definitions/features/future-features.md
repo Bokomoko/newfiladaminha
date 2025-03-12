@@ -32,6 +32,11 @@ This document outlines planned features for future implementation.
    - Favorite queue types
    - Frequently visited places
 
+3. **Paid for Priority in the Queue**
+   - Allow users to pay for priority placement in the queue
+   - Display priority status in the queue
+   - Manage payment and priority rules
+
 ## Notifications
 
 1. **Smart Alerts**

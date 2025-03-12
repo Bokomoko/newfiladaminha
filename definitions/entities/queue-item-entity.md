@@ -4,11 +4,13 @@ The `Queue Item Entity` represents an item in the queue. It is a child of the [Q
 
 ## Attributes
 
-- **user_id**: The ID of the user who joined the queue.
-- **timestamp**: The timestamp when the user joined the queue.
-- **flag**: A flag indicating the status or priority of the queue item.
-- **original_position**: The original position of the user in the queue.
-- **queue_id**: The ID of the queue to which this item belongs.
+| Attribute        | Type    | Description                                      |
+|------------------|---------|--------------------------------------------------|
+| user_id          | String  | The ID of the user who joined the queue.         |
+| timestamp        | String  | The timestamp when the user joined the queue.    |
+| flag             | Boolean | A flag indicating the status or priority of the queue item. |
+| original_position| Integer | The original position of the user in the queue.  |
+| queue_id         | String  | The ID of the queue to which this item belongs.  |
 
 ```json
 {
